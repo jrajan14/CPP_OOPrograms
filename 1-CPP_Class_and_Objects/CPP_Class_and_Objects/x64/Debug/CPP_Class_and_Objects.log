@@ -1,0 +1,6 @@
+﻿  CPP_Class_and_Objects.cpp
+E:\GitHub\CPP_OOPrograms\1-CPP_Class_and_Objects\CPP_Class_and_Objects\CPP_Class_and_Objects.cpp(40,24): warning C4305: '=': truncation from 'double' to 'float'
+E:\GitHub\CPP_OOPrograms\1-CPP_Class_and_Objects\CPP_Class_and_Objects\CPP_Class_and_Objects.cpp(41,25): warning C4305: '=': truncation from 'double' to 'float'
+E:\GitHub\CPP_OOPrograms\1-CPP_Class_and_Objects\CPP_Class_and_Objects\CPP_Class_and_Objects.cpp(42,28): warning C4305: '=': truncation from 'double' to 'float'
+E:\GitHub\CPP_OOPrograms\1-CPP_Class_and_Objects\CPP_Class_and_Objects\CPP_Class_and_Objects.cpp(43,28): warning C4305: '=': truncation from 'double' to 'float'
+  CPP_Class_and_Objects.vcxproj -> E:\GitHub\CPP_OOPrograms\1-CPP_Class_and_Objects\x64\Debug\CPP_Class_and_Objects.exe

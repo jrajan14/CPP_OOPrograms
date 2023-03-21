@@ -1,4 +1,4 @@
 ﻿  CPP_Constructor_Destructor.cpp
-E:\GitHub\CPP_OOPrograms\CPP_Constructor_Destructor\CPP_Constructor_Destructor\CPP_Constructor_Destructor.cpp(34,24): warning C4305: '=': truncation from 'double' to 'float'
-E:\GitHub\CPP_OOPrograms\CPP_Constructor_Destructor\CPP_Constructor_Destructor\CPP_Constructor_Destructor.cpp(38,27): warning C4305: '=': truncation from 'double' to 'float'
-  CPP_Constructor_Destructor.vcxproj -> E:\GitHub\CPP_OOPrograms\CPP_Constructor_Destructor\x64\Debug\CPP_Constructor_Destructor.exe
+E:\GitHub\CPP_OOPrograms\3-CPP_Class_Constructor_Destructor\CPP_Constructor_Destructor\CPP_Constructor_Destructor.cpp(37,24): warning C4305: '=': truncation from 'double' to 'float'
+E:\GitHub\CPP_OOPrograms\3-CPP_Class_Constructor_Destructor\CPP_Constructor_Destructor\CPP_Constructor_Destructor.cpp(42,27): warning C4305: '=': truncation from 'double' to 'float'
+  CPP_Constructor_Destructor.vcxproj -> E:\GitHub\CPP_OOPrograms\3-CPP_Class_Constructor_Destructor\x64\Debug\CPP_Constructor_Destructor.exe

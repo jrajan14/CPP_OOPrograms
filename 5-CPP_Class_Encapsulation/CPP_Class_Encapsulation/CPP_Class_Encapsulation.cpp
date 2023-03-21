@@ -15,7 +15,7 @@ class City
         int speedLimit = 70; //private variable
 
     public:
-        // Getter method      To read from Primaet variable
+        // Getter method      To read from Private variable
         int checkSpeedLimit()
         {
             return speedLimit;
@@ -25,8 +25,7 @@ class City
         void changeSpeedLimit(int newSpeed)
         {
             speedLimit = newSpeed;
-        }
-;
+        };
 };
 
 int main()
